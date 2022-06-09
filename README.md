@@ -7,7 +7,7 @@
 * Prosody主题中关于control的论文居多。
 * Front-end主题中关于G2P，多音字消歧的论文居多。
 * Vocoder主题中大多是提升效率的论文。
-* Multimodal主题中关于配音(dubbing)的论文居多。
+* Multimodal主题中关于配音的论文居多。
 
 
 *** 
