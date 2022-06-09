@@ -3,7 +3,7 @@
 
 ## TTS
 ### Topic
-|  Order        | Topics        | #Sessions     | #Papers |
+|          | Topics        | #Sessions     | #Papers |
 | ------------- | ------------- | ------------- | ------------- |
 |1 | Expressiveness/Adaptation  | 4  | 24  |
 |2 | General topic  | 2  | 12  |
@@ -17,7 +17,7 @@
 <div><img src='./pics/TTS_topics.png' width=450 alt=''> </img></div> 
 
 ### Tasks
-|  Order  | Tasks  | #Papers | 
+|    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Acoustic model  | 12  |
 |2 | Expressiveness  | 10  | 
@@ -37,7 +37,7 @@
 
 ### Motivation
 #### AM (Acoustic model)
-|  Order  | Tasks  | #Papers | 
+|    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Model  | 3  |
 |2 | Duration  | 2  | 
@@ -50,7 +50,7 @@
 | Total | 8   | 12 | 
 
 #### Expressiveness
-|  Order  | Tasks  | #Papers | 
+|    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Disentanglement  | 3  |
 |2 | Emotion  | 2  | 
@@ -63,7 +63,7 @@
 
 
 #### Prosody
-|  Order  | Tasks  | #Papers | 
+|    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Control  | 4  |
 |2 | Rich prosody  | 2  | 
@@ -73,7 +73,7 @@
 
 
 #### Front-end
-|  Order  | Tasks  | #Papers | 
+|    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | G2P  | 2  |
 |2 | Polyphone disambiguation   | 2  | 
@@ -84,14 +84,14 @@
 | Total | 6   | 8 | 
 
 #### Vocoder
-|  Order  | Tasks  | #Papers | 
+|    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Efficiency  | 4  |
 |2 | New method   | 2  | 
 | Total | 2   | 6 | 
 
 #### Adaptation
-|  Order  | Tasks  | #Papers | 
+|    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Speaker generation  | 1  |
 |2 | VC for postprocessing  | 1  | 
@@ -102,7 +102,7 @@
 
 
 #### Multimodal
-|  Order  | Tasks  | #Papers | 
+|    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Dubbing  | 4  |
 |2 | Speech-to-animation  | 1  | 
@@ -110,7 +110,7 @@
 
 
 #### Multi-lingual/Cross-lingual TTS
-|  Order  | Tasks  | #Papers | 
+|    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Data augmentation  | 1  |
 |2 | Lifelong learning  | 1  | 
@@ -120,7 +120,7 @@
 
 
 #### Singing voice synthesis
-|  Order  | Tasks  | #Papers | 
+|    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | End-to-end | 1  |
 |2 | Melody unsupervision  | 1  | 
@@ -130,7 +130,7 @@
 
 ## VC
 ### Topic
-|  Order        | Topics        | #Sessions     | #Papers |
+|          | Topics        | #Sessions     | #Papers |
 | ------------- | ------------- | ------------- | ------------- |
 |1 | Conversion  | 2  | 12  |
 |2 | Representation  | 1  | 6  |
@@ -141,7 +141,7 @@
 <div><img src='./pics/VC_topic.png' width=450 alt=''> </img></div> 
 ### Tasks
 
-|  Order  | Tasks  | #Papers | 
+|    | Tasks  | #Papers | 
 | ------------- | ------------- |------------- |
 |1 | VC  | 7  |
 |2 | One-shot/Representation  | 6  | 
