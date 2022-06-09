@@ -2,12 +2,12 @@
 
 总结了ICASSP2022中TTS和VC相关论文，主要是TTS。统计了sessions，topics，tasks/motivation以及对应的论文数量。
 * TTS相关工作最多的是acoustic model，其次是expressiveness和prosody。
-* Acoustic model中关于模型结构的论文居多，其次是关于AM中的时长建模。
-* Expresiveness任务中关于disentanglement的论文居多。
-* Prosody任务中关于control的论文居多。
-* Front-end任务中关于G2P，多音字消歧的论文居多。
-* Vocoder任务中大多是提升效率的论文。
-* Multimodal中关于配音(dubbing)的论文居多。
+* Acoustic model主题中关于模型结构的论文居多，其次是关于AM中的时长建模。
+* Expresiveness主题中关于disentanglement的论文居多。
+* Prosody主题中关于control的论文居多。
+* Front-end主题中关于G2P，多音字消歧的论文居多。
+* Vocoder主题中大多是提升效率的论文。
+* Multimodal主题中关于配音(dubbing)的论文居多。
 
 
 *** 
