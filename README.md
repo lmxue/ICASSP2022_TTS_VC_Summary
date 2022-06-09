@@ -1,5 +1,17 @@
 # ICASSP2022 TTS&amp;VC Summary
 
+总结了ICASSP2022中TTS和VC相关论文，主要是TTS。统计了session，topic，task，motivation以及对应的论文数量。
+* TTS相关工作最多的是acoustic model，其次是expressiveness和prosody。
+* Acoustic model中关于模型结构的论文居多，其次是关于AM中的时长建模。
+* Expresiveness任务中关于disentanglement的论文居多。
+* Prosody任务中关于control的论文居多。
+* Front-end任务中关于G2P，多音字消歧的论文居多。
+* Vocoder任务中大多是提升效率的论文。
+* Multimodal中关于配音(dubbing)的论文居多。
+
+
+*** 
+
 ## Content
 ### [TTS](#tts)
 * [Topics](#tts_topics)
@@ -21,8 +33,8 @@
 * [Topics](#vc_topics)
 * [Tasks](#vc_tasks)
 
-
 *** 
+
 
 ## TTS <span id='tts'/>
 ### TTS Topics  <span id='tts_topics'/>
@@ -37,7 +49,7 @@
 |7 | Singing Voice and others | 1  | 5  |
 | Total | 7  | 11   | 65   |
 
-<div><img src='./pics/TTS_topics.png' width=450 alt=''> </img></div> 
+<div><img src='./pics/TTS_topics.png' width=500 alt=''> </img></div> 
 
 ### TTS Tasks  <span id='tts_tasks'/>
 |    | Tasks  | #Papers | 
@@ -55,7 +67,7 @@
 |11 | Others | 2  | 
 | Total | 11   | 65 | 
 
-<div><img src='./pics/TTS_tasks.png' width=450 alt=''> </img></div> 
+<div><img src='./pics/TTS_tasks.png' width=500 alt=''> </img></div> 
 
 
 ### TTS Motivation  <span id='tts_movitation'/>
@@ -178,7 +190,7 @@
 | Total | 3  | 4   | 24   |
 
 
-<div><img src='./pics/VC_topics.png' width=450 alt=''> </img></div> 
+<div><img src='./pics/VC_topics.png' width=500 alt=''> </img></div> 
 
 ### VC Tasks  <span id='vc_tasks'/>
 
@@ -195,4 +207,4 @@
 |9 | Tool | 1  | 
 | Total | 9   | 24 | 
 
-<div><img src='./pics/VC_tasks.png' width=450 alt=''> </img></div> 
+<div><img src='./pics/VC_tasks.png' width=500 alt=''> </img></div> 
