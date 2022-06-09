@@ -24,7 +24,7 @@
     * [Vocoder](#vocoder)
     * [Adaptation](#adaptation)
     * [Multimodal](#multimodal)
-    * [Multi-lingual/Cross-lingual TTS](#multilingual_cross_lingual)
+    * [Multi-lingual/Cross-lingual TTS](#multilingual_crosslingual)
     * [Singing voice synthesis](#svs)
     * [Speech editing](#speech_editing)
     * [Others](#others)
@@ -84,7 +84,7 @@
 |8 | Incremental TTS | 1  |
 | Total | 8   | 12 | 
 
-#### Expressiveness <span id='expresiveness'/>
+#### Expressiveness <span id='expressiveness'/>
 |    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Disentanglement  | 3  |
