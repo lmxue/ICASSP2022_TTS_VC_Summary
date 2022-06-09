@@ -168,16 +168,16 @@
 
 ****
 ## VC
-### VC Topics  <span id='vc_topics'/>
+### VC Topics  <span id='vc_topics.png'/>
 |          | Topics        | #Sessions     | #Papers |
 | ------------- | ------------- | ------------- | ------------- |
 |1 | Conversion  | 2  | 12  |
 |2 | Representation  | 1  | 6  |
 |3 | Singing voice and others  | 1  | 6  |
-| Total | 73  | 4   | 24   |
+| Total | 3  | 4   | 24   |
 
 
-<div><img src='./pics/VC_topic.png' width=450 alt=''> </img></div> 
+<div><img src='./pics/VC_topics.png' width=450 alt=''> </img></div> 
 
 ### VC Tasks  <span id='vc_tasks'/>
 
