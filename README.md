@@ -1,6 +1,6 @@
 # ICASSP2022 TTS&amp;VC Summary
 
-总结了ICASSP2022中TTS和VC相关论文，主要是TTS。统计了session，topic，task，motivation以及对应的论文数量。
+总结了ICASSP2022中TTS和VC相关论文，主要是TTS。统计了sessions，topics，tasks/motivation以及对应的论文数量。
 * TTS相关工作最多的是acoustic model，其次是expressiveness和prosody。
 * Acoustic model中关于模型结构的论文居多，其次是关于AM中的时长建模。
 * Expresiveness任务中关于disentanglement的论文居多。
@@ -14,9 +14,9 @@
 
 ## Content
 ### [TTS](#tts)
+* [Sessions](#tts_sessions)
 * [Topics](#tts_topics)
 * [Tasks](#tts_tasks)
-* [Movitation](#tts_movitation)
     * [Acoustic model](#am)
     * [Expressiveness](#expressiveness)
     * [Prosody](#prosody)
@@ -30,15 +30,15 @@
     * [Others](#others)
 
 ### [VC](#vc)
-* [Topics](#vc_topics)
+* [Sessions](#vc_sessions)
 * [Tasks](#vc_tasks)
 
 *** 
 
 
 ## TTS <span id='tts'/>
-### TTS Topics  <span id='tts_topics'/>
-|          | Topics        | #Sessions     | #Papers |
+### TTS Sessions  <span id='tts_sessions'/>
+|          | Sessions        | #Sessions     | #Papers |
 | ------------- | ------------- | ------------- | ------------- |
 |1 | Expressiveness/Adaptation  | 4  | 24  |
 |2 | General topic  | 2  | 12  |
@@ -51,8 +51,8 @@
 
 <div><img src='./pics/TTS_topics.png' width=500 alt=''> </img></div> 
 
-### TTS Tasks  <span id='tts_tasks'/>
-|    | Tasks  | #Papers | 
+### TTS Topics  <span id='tts_topics'/>
+|    | Topics  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Acoustic model  | 12  |
 |2 | Expressiveness  | 10  | 
@@ -70,7 +70,7 @@
 <div><img src='./pics/TTS_tasks.png' width=500 alt=''> </img></div> 
 
 
-### TTS Motivation  <span id='tts_movitation'/>
+### TTS Task/Motivation  <span id='tts_tasks'/>
 #### AM (Acoustic model) <span id='am'/>
 |    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
@@ -181,8 +181,8 @@
 
 ****
 ## VC  <span id='vc'/>
-### VC Topics  <span id='vc_topics'/>
-|          | Topics        | #Sessions     | #Papers |
+### VC Sessions  <span id='vc_sessions'/>
+|          | Sessions        | #Sessions     | #Papers |
 | ------------- | ------------- | ------------- | ------------- |
 |1 | Conversion  | 2  | 12  |
 |2 | Representation  | 1  | 6  |
@@ -194,7 +194,7 @@
 
 ### VC Tasks  <span id='vc_tasks'/>
 
-|    | Tasks  | #Papers | 
+|    | Topics  | #Papers | 
 | ------------- | ------------- |------------- |
 |1 | VC  | 7  |
 |2 | One-shot/Representation  | 6  | 
