@@ -1,8 +1,30 @@
 # ICASSP2022 TTS&amp;VC Summary
 
+## Content
+### TTS
+* [Topics](#tts_topics)
+* [Tasks](#tts_tasks)
+* [Movitation](#tts_movitation)
+    * [Acoustic model](#am)
+    * [Expressiveness](#expressiveness)
+    * [Prosody](#prosody)
+    * [Front-end](#front_end)
+    * [Vocoder](#vocoder)
+    * [Adaptation](#adaptation)
+    * [Multimodal](#multimodal)
+    * [Multi-lingual/Cross-lingual TTS](#multilingual_cross_lingual)
+    * [Singing voice synthesis](#svs)
+    * [Speech editing](#speech_editing)
+    * [Others](#others)
+
+### VC
+* [Topics](#vc_topics)
+* [Tasks](#vc_tasks)
+
+****
 
 ## TTS
-### Topic
+### TTS Topics  <span id='tts_topics'/>
 |          | Topics        | #Sessions     | #Papers |
 | ------------- | ------------- | ------------- | ------------- |
 |1 | Expressiveness/Adaptation  | 4  | 24  |
@@ -16,7 +38,7 @@
 
 <div><img src='./pics/TTS_topics.png' width=450 alt=''> </img></div> 
 
-### Tasks
+### TTS Tasks  <span id='tts_tasks'/>
 |    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Acoustic model  | 12  |
@@ -29,14 +51,14 @@
 |8 | Multi-lingual/Cross-lingual | 4  |
 |9 | Singing voice synthesis | 2  | 
 |10 | Speech editing | 2  | 
-|11 | Other | 2  | 
+|11 | Others | 2  | 
 | Total | 11   | 65 | 
 
 <div><img src='./pics/TTS_tasks.png' width=450 alt=''> </img></div> 
 
 
-### Motivation
-#### AM (Acoustic model)
+### TTS Motivation  <span id='tts_movitation'/>
+#### AM (Acoustic model) <span id='am'/>
 |    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Model  | 3  |
@@ -49,7 +71,7 @@
 |8 | Incremental TTS | 1  |
 | Total | 8   | 12 | 
 
-#### Expressiveness
+#### Expressiveness <span id='expresiveness'/>
 |    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Disentanglement  | 3  |
@@ -62,7 +84,7 @@
 | Total | 7   | 10 | 
 
 
-#### Prosody
+#### Prosody <span id='prosody'/>
 |    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Control  | 4  |
@@ -72,7 +94,7 @@
 | Total | 4   | 9 | 
 
 
-#### Front-end
+#### Front-end <span id='front_end'/>
 |    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | G2P  | 2  |
@@ -83,14 +105,14 @@
 |6 | Mathematical formulas   | 1  |  
 | Total | 6   | 8 | 
 
-#### Vocoder
+#### Vocoder <span id='vocoder'/>
 |    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Efficiency  | 4  |
 |2 | New method   | 2  | 
 | Total | 2   | 6 | 
 
-#### Adaptation
+#### Adaptation <span id='adaptation'/>
 |    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Speaker generation  | 1  |
@@ -101,7 +123,7 @@
 | Total | 5   | 5 | 
 
 
-#### Multimodal
+#### Multimodal <span id='multimodal'/>
 |    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Dubbing  | 4  |
@@ -109,7 +131,7 @@
 | Total | 2   | 5 | 
 
 
-#### Multi-lingual/Cross-lingual TTS
+#### Multi-lingual/Cross-lingual TTS <span id='multilingual_crosslingual'/>
 |    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | Data augmentation  | 1  |
@@ -119,7 +141,7 @@
 | Total | 4   | 4 | 
 
 
-#### Singing voice synthesis
+#### Singing voice synthesis <span id='svs'/>
 |    | Tasks  | #Papers | 
 | ------------- | ------------- | ------------- | 
 |1 | End-to-end | 1  |
@@ -128,8 +150,25 @@
 
 
 
+#### Speech editing <span id='speech_editing'/>
+|    | Tasks  | #Papers | 
+| ------------- | ------------- | ------------- | 
+|1 | Speech editing | 2  | 
+| Total | 1   | 2 | 
+
+
+
+#### Others  <span id='others'/>
+|    | Tasks  | #Papers | 
+| ------------- | ------------- | ------------- | 
+|1 | MOS net | 1  |
+|2 | Phase reconstruction  | 1  | 
+| Total | 2   | 2 | 
+
+
+****
 ## VC
-### Topic
+### VC Topics  <span id='vc_topics'/>
 |          | Topics        | #Sessions     | #Papers |
 | ------------- | ------------- | ------------- | ------------- |
 |1 | Conversion  | 2  | 12  |
@@ -139,7 +178,8 @@
 
 
 <div><img src='./pics/VC_topic.png' width=450 alt=''> </img></div> 
-### Tasks
+
+### VC Tasks  <span id='vc_tasks'/>
 
 |    | Tasks  | #Papers | 
 | ------------- | ------------- |------------- |
